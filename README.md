@@ -1,6 +1,6 @@
 # Sordifense – App Lock Privacy Policy
 
-**Effective date: July 17, 2026**
+**Effective date: July 20, 2026**
 
 Sordifense – App Lock, formerly known as LockVault, is an Android application developed by Sordiff Studios that allows users to protect selected apps using their device’s fingerprint, face recognition, PIN, pattern, or password.
 
@@ -48,17 +48,32 @@ Sordifense – App Lock only receives confirmation from Android indicating wheth
 
 ## Data Collection
 
-Sordifense – App Lock does not:
+Except for information a user voluntarily submits through the in-app support form, Sordifense – App Lock does not:
 
 - Require an account.
-- Directly collect names, addresses, phone numbers, or full payment-card or banking information.
+- Collect names, addresses, phone numbers, or full payment-card or banking information.
 - Collect messages, photos, passwords, or contacts.
 - Collect precise location information.
 - Use advertising or analytics services.
-- Sell or share user information.
+- Sell user information.
 - Upload the selected-app list or protection settings to a server.
 
 Sordifense – App Lock’s settings are stored locally on the device.
+
+## Help and Problem Reports
+
+When a user chooses **Help & Support** or **Report a Problem**, the user may voluntarily submit:
+
+- A support category.
+- A subject and written message.
+- The name of an affected app, if provided.
+- The device model.
+- The Android version.
+- The installed Sordifense version.
+
+This information is used only to respond to support requests, investigate reported problems, and improve Sordifense. Reports are submitted to a private Google Form controlled by Sordiff Studios. Google processes the submission as a service provider under its applicable privacy and security terms.
+
+Support reports are not sold or used for advertising. They are retained only as long as reasonably needed for support, troubleshooting, legal, or security purposes. Users may request deletion of a submitted report by emailing mattsordiff89@gmail.com and providing enough information to identify the report.
 
 ## In-App Purchases
 
@@ -68,27 +83,31 @@ Payments are processed by Google Play. Sordifense – App Lock does not directly
 
 ## Data Sharing
 
-Sordifense – App Lock does not sell, rent, trade, or share user information with third parties.
+Sordifense – App Lock does not sell, rent, or trade user information. Support-report information is processed through Google Forms only to provide the support functionality described above.
 
 ## Data Storage and Deletion
 
 Selected-app information, protection settings, and disclosure preferences are stored locally on the user’s device.
 
-Users can delete this information by:
+Users can delete local information by:
 
 - Removing selected apps inside Sordifense – App Lock.
 - Clearing Sordifense – App Lock’s storage through Android Settings.
 - Uninstalling Sordifense – App Lock.
 
+Users may request deletion of a support report by contacting mattsordiff89@gmail.com.
+
 ## Security
 
 Sordifense – App Lock uses Android’s system security and authentication features to help protect access to the application and selected apps.
 
-No security system can guarantee complete protection. Users should continue using a secure device screen lock and keep their Android software updated.
+Support reports are transmitted over HTTPS to Google Forms. No security system can guarantee complete protection. Users should avoid including passwords, payment information, or other highly sensitive information in support messages.
+
+Users should continue using a secure device screen lock and keep their Android software updated.
 
 ## Children’s Privacy
 
-Sordifense – App Lock does not knowingly collect personal information from children or any other users.
+Sordifense – App Lock does not knowingly collect personal information from children. Users should not submit personal information about a child through the support form.
 
 ## Changes to This Privacy Policy
 
